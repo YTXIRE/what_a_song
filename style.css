@@ -1,0 +1,17 @@
+.page-link {
+    color: #6c757d !important;
+}
+
+#listOption .active .page-link {
+    color: #fff !important;
+}
+
+#videoPlayer #video {
+    width: 1110px;
+    height: 625px;
+}
+
+.answerDouble {
+    color: #ffffff !important;
+    background: linear-gradient(90deg, #007bff, #dc3545);
+}
